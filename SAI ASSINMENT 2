@@ -1,24 +1,15 @@
-num = int (input (“Enter any number to test whether it is odd or even: “)
-
-if (num % 2) == 0:
-
-              print (“The number is even”)
-
+[8:13 pm, 09/02/2022] Slash Sathish: a=int(input('enter a number:'))
+if(a%2==0):
+    print('a is even number:',a)
 else:
-
-              print (“The provided number is odd”)
-
-Output:
-
-Enter any number:887
-
-887
-
-887 is odd.
-
- OUT PUT:2
- Enter any number: 2
+    print('a is odd number:',a)
+    
+    out put:
+ enter a number:3
+a is odd number: 3
+>
  
- 2
+ out put :2
+ enter a number:2
+ a is even number:2
  
- 2 is even.
