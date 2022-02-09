@@ -1,4 +1,4 @@
-[8:13 pm, 09/02/2022] Slash Sathish: a=int(input('enter a number:'))
+ a=int(input('enter a number:'))
 if(a%2==0):
     print('a is even number:',a)
 else:
