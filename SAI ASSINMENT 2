@@ -1,0 +1,24 @@
+num = int (input (“Enter any number to test whether it is odd or even: “)
+
+if (num % 2) == 0:
+
+              print (“The number is even”)
+
+else:
+
+              print (“The provided number is odd”)
+
+Output:
+
+Enter any number:887
+
+887
+
+887 is odd.
+
+ OUT PUT:2
+ Enter any number: 2
+ 
+ 2
+ 
+ 2 is even.
