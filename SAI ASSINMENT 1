@@ -1,0 +1,20 @@
+number=int(input('enter number:'))
+if number>=20:
+    print('BIG Number')
+else:
+    print('Small Number')
+number=int(input('enter number:'))
+if number>=50:
+    print ('BIG Number')
+else:
+    print ('Small Number')
+    
+    OUTPUT:
+ enter number:20
+     BIG Number
+enter number:60
+BIG Number
+
+
+* Process exited - Return Code: 0 *
+Press Enter to exit terminal
